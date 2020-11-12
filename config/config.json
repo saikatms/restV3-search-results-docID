@@ -1,0 +1,6 @@
+{
+    "ndli_api_url": "http://ndl-test.iitkgp.ac.in/rest-v3/",
+    "ndli_api_pass": "9e4934dcbc6c795d885802d5aa3863eb",
+    "api_document_search": "document/search",
+    "get_api_token": "token/get"
+}
